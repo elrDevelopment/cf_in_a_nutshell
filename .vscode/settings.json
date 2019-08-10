@@ -1,0 +1,5 @@
+
+{  "css.remoteStyleSheets": ["https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"],
+    "cfml.suggest.snippets.enable": false,
+    "cfml.hover.css.enable": false
+}
